@@ -1,0 +1,17 @@
+{
+  "base_url": "http://localhost:3000",
+  "start_cmd": "npm run dev",
+  "pages": ["/", "/pricing", "/contact"],
+  "serve_dir": "dist",
+  "workdir": "/absolute/path/to/project",
+  "run_dir": "/absolute/path/to/.make-it-better/project-2026-10-30",
+  "purpose": "One sentence: who the site is for and what it should get them to do.",
+  "bar": "A named reference site, or none",
+  "iterations": 5,
+  "auto_stop": false,
+  "target": 80,
+  "min_gain": 2.0,
+  "window": 2,
+  "judge": "auto",
+  "judges": 3
+}
